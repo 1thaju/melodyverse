@@ -25,9 +25,6 @@ Multer for image uploads
 Express-rate-limit to prevent brute force attacks
 
 📂 Project Structure
-bash
-Copy
-Edit
 melodyverse/
 │── backend/                 # Express Backend
 │   ├── models/              # Mongoose Models
